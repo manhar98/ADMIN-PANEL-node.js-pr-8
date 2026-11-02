@@ -288,7 +288,7 @@ Passwords are hashed before storing them in MongoDB.
 
 **Manhar Zapadiya**
 
-GitHub: [https://github.com/manhar98](https://github.com/manhar98)
+GitHub: [https://github.com/manhar98/ADMIN-PANEL-node.js-pr-8.git](https://github.com/manhar98/ADMIN-PANEL-node.js-pr-8.git)
 
 ## 📌 Project Purpose
 
